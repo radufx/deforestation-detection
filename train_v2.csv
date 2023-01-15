@@ -1,0 +1,1002 @@
+image_name,tags
+train_0,haze primary
+train_1,agriculture clear primary water
+train_2,clear primary
+train_3,clear primary
+train_4,agriculture clear habitation primary road
+train_5,haze primary water
+train_6,agriculture clear cultivation primary water
+train_7,haze primary
+train_8,agriculture clear cultivation primary
+train_9,agriculture clear cultivation primary road
+train_10,agriculture clear primary slash_burn water
+train_11,clear primary water
+train_12,cloudy
+train_13,clear primary
+train_14,cloudy
+train_15,clear primary
+train_16,clear primary
+train_17,partly_cloudy primary
+train_18,clear primary
+train_19,agriculture clear primary road
+train_20,agriculture clear primary water
+train_21,clear primary road water
+train_22,partly_cloudy primary
+train_23,agriculture clear primary road
+train_24,conventional_mine partly_cloudy primary
+train_25,clear primary
+train_26,cloudy
+train_27,agriculture partly_cloudy primary water
+train_28,clear primary
+train_29,partly_cloudy primary
+train_30,clear primary water
+train_31,clear cultivation primary
+train_32,agriculture clear primary road
+train_33,agriculture cultivation partly_cloudy primary
+train_34,clear primary
+train_35,clear primary
+train_36,agriculture clear primary road
+train_37,partly_cloudy primary
+train_38,clear primary
+train_39,clear primary
+train_40,agriculture clear cultivation primary
+train_41,agriculture clear primary
+train_42,clear primary
+train_43,bare_ground haze
+train_44,clear primary
+train_45,clear primary
+train_46,bare_ground clear habitation primary
+train_47,clear primary water
+train_48,clear primary water
+train_49,clear primary
+train_50,cloudy
+train_51,clear primary
+train_52,agriculture clear habitation primary road water
+train_53,clear primary
+train_54,clear primary
+train_55,partly_cloudy primary road water
+train_56,clear primary water
+train_57,artisinal_mine bare_ground clear primary water
+train_58,agriculture clear primary road
+train_59,agriculture clear habitation primary road
+train_60,haze primary
+train_61,clear primary
+train_62,clear primary water
+train_63,agriculture clear primary road
+train_64,agriculture clear primary
+train_65,clear primary
+train_66,agriculture clear primary road
+train_67,clear habitation primary road
+train_68,cloudy
+train_69,clear primary
+train_70,blooming clear primary
+train_71,clear primary water
+train_72,cloudy
+train_73,clear primary
+train_74,agriculture partly_cloudy primary road
+train_75,agriculture clear primary road water
+train_76,partly_cloudy primary
+train_77,cloudy
+train_78,clear primary
+train_79,clear cultivation primary
+train_80,agriculture partly_cloudy primary road
+train_81,clear primary
+train_82,blooming clear cultivation habitation primary slash_burn
+train_83,clear primary
+train_84,agriculture clear habitation primary road
+train_85,clear primary water
+train_86,clear primary
+train_87,cloudy
+train_88,partly_cloudy primary
+train_89,clear primary
+train_90,agriculture partly_cloudy primary road
+train_91,partly_cloudy primary
+train_92,agriculture clear habitation primary road
+train_93,clear primary
+train_94,agriculture clear habitation primary road
+train_95,clear primary
+train_96,clear primary
+train_97,cloudy
+train_98,clear primary
+train_99,partly_cloudy primary
+train_100,bare_ground clear water
+train_101,cloudy
+train_102,clear primary
+train_103,agriculture clear habitation primary road water
+train_104,haze primary
+train_105,clear primary
+train_106,clear primary
+train_107,partly_cloudy primary
+train_108,cloudy
+train_109,clear primary
+train_110,clear primary
+train_111,cloudy
+train_112,agriculture clear primary road
+train_113,agriculture clear primary
+train_114,clear primary water
+train_115,clear primary water
+train_116,agriculture clear primary road
+train_117,clear primary
+train_118,cloudy
+train_119,agriculture clear primary road water
+train_120,clear primary
+train_121,partly_cloudy primary water
+train_122,agriculture clear primary road
+train_123,agriculture bare_ground clear habitation primary road
+train_124,bare_ground clear primary
+train_125,agriculture clear primary
+train_126,agriculture clear primary road
+train_127,clear primary
+train_128,clear primary
+train_129,agriculture clear primary
+train_130,partly_cloudy primary
+train_131,agriculture clear primary road water
+train_132,haze primary
+train_133,haze primary
+train_134,clear primary
+train_135,clear primary water
+train_136,haze primary
+train_137,clear primary
+train_138,cloudy
+train_139,clear primary
+train_140,clear primary
+train_141,partly_cloudy primary water
+train_142,agriculture clear habitation primary road
+train_143,partly_cloudy primary water
+train_144,agriculture partly_cloudy primary selective_logging
+train_145,partly_cloudy primary
+train_146,clear cultivation primary
+train_147,clear primary
+train_148,agriculture clear cultivation primary water
+train_149,clear primary
+train_150,agriculture partly_cloudy primary
+train_151,agriculture clear cultivation primary selective_logging
+train_152,haze primary
+train_153,clear primary
+train_154,clear primary
+train_155,clear primary
+train_156,clear primary water
+train_157,agriculture partly_cloudy primary
+train_158,agriculture clear primary water
+train_159,agriculture clear primary road
+train_160,partly_cloudy primary
+train_161,partly_cloudy primary
+train_162,agriculture partly_cloudy primary
+train_163,clear primary
+train_164,clear primary
+train_165,clear primary water
+train_166,clear primary road selective_logging water
+train_167,agriculture habitation partly_cloudy primary road
+train_168,cloudy
+train_169,agriculture clear primary road
+train_170,clear primary water
+train_171,agriculture clear primary road
+train_172,agriculture clear primary road
+train_173,clear cultivation primary
+train_174,cloudy
+train_175,clear primary
+train_176,clear primary
+train_177,agriculture clear primary road water
+train_178,clear primary
+train_179,cloudy
+train_180,haze primary
+train_181,clear primary
+train_182,partly_cloudy primary
+train_183,clear primary
+train_184,partly_cloudy primary
+train_185,agriculture artisinal_mine clear cultivation habitation primary road water
+train_186,clear primary road water
+train_187,artisinal_mine clear primary road
+train_188,clear primary water
+train_189,clear primary road water
+train_190,clear primary
+train_191,partly_cloudy primary
+train_192,blow_down clear primary
+train_193,partly_cloudy primary
+train_194,partly_cloudy primary
+train_195,agriculture clear primary road
+train_196,haze primary
+train_197,agriculture clear primary road
+train_198,clear primary
+train_199,agriculture clear cultivation primary
+train_200,clear primary
+train_201,clear primary
+train_202,clear habitation road
+train_203,cloudy
+train_204,clear primary
+train_205,agriculture clear cultivation primary
+train_206,partly_cloudy primary
+train_207,bare_ground clear primary road
+train_208,clear primary
+train_209,agriculture clear primary road
+train_210,partly_cloudy primary
+train_211,clear habitation primary road
+train_212,partly_cloudy primary
+train_213,agriculture clear primary road water
+train_214,clear primary
+train_215,haze primary water
+train_216,agriculture clear primary road
+train_217,bare_ground clear primary
+train_218,agriculture clear cultivation habitation primary road
+train_219,clear primary
+train_220,partly_cloudy primary
+train_221,clear primary
+train_222,agriculture clear cultivation habitation primary road water
+train_223,clear primary
+train_224,agriculture clear primary
+train_225,agriculture clear cultivation habitation primary road
+train_226,cloudy
+train_227,agriculture clear cultivation primary
+train_228,agriculture haze primary road water
+train_229,agriculture clear cultivation primary
+train_230,agriculture bare_ground habitation partly_cloudy primary road
+train_231,partly_cloudy primary
+train_232,clear primary
+train_233,clear primary water
+train_234,cloudy
+train_235,clear primary
+train_236,clear primary
+train_237,artisinal_mine clear primary road water
+train_238,clear primary
+train_239,bare_ground clear primary water
+train_240,agriculture clear primary road
+train_241,agriculture haze primary road
+train_242,clear primary
+train_243,clear primary
+train_244,clear primary
+train_245,clear primary blooming
+train_246,clear primary
+train_247,agriculture clear cultivation habitation primary road selective_logging
+train_248,haze primary
+train_249,partly_cloudy primary
+train_250,clear primary
+train_251,clear primary
+train_252,clear habitation primary
+train_253,agriculture clear habitation primary road
+train_254,clear primary
+train_255,agriculture clear habitation primary road
+train_256,agriculture clear cultivation primary
+train_257,cloudy
+train_258,clear habitation primary road
+train_259,partly_cloudy primary
+train_260,clear primary road water
+train_261,agriculture clear primary
+train_262,clear cultivation primary
+train_263,agriculture clear primary
+train_264,clear primary
+train_265,partly_cloudy primary
+train_266,clear cultivation habitation primary
+train_267,partly_cloudy primary
+train_268,agriculture clear habitation primary road
+train_269,clear primary
+train_270,agriculture clear primary road
+train_271,clear primary
+train_272,agriculture clear primary road
+train_273,clear water
+train_274,artisinal_mine clear primary road water
+train_275,clear primary
+train_276,partly_cloudy primary
+train_277,clear primary
+train_278,clear primary
+train_279,clear cultivation primary
+train_280,partly_cloudy primary
+train_281,clear primary selective_logging
+train_282,partly_cloudy primary
+train_283,partly_cloudy primary water
+train_284,cloudy
+train_285,cloudy
+train_286,agriculture artisinal_mine clear primary water
+train_287,partly_cloudy primary
+train_288,clear primary water
+train_289,clear primary
+train_290,clear water
+train_291,agriculture clear primary road
+train_292,agriculture partly_cloudy primary
+train_293,clear primary water
+train_294,clear primary road
+train_295,clear primary water
+train_296,clear primary
+train_297,agriculture clear cultivation primary
+train_298,agriculture bare_ground clear cultivation habitation primary
+train_299,clear primary
+train_300,clear primary
+train_301,agriculture clear primary road water
+train_302,cloudy
+train_303,agriculture clear primary
+train_304,agriculture clear primary
+train_305,partly_cloudy primary
+train_306,partly_cloudy primary
+train_307,clear primary
+train_308,agriculture cultivation partly_cloudy primary road water
+train_309,agriculture clear primary water
+train_310,clear primary
+train_311,agriculture clear habitation primary road
+train_312,partly_cloudy primary
+train_313,clear primary water
+train_314,agriculture clear primary road
+train_315,agriculture haze primary road
+train_316,agriculture clear primary
+train_317,clear primary
+train_318,clear primary
+train_319,bare_ground clear road
+train_320,partly_cloudy primary
+train_321,clear primary water
+train_322,clear primary road water
+train_323,partly_cloudy primary
+train_324,agriculture clear primary water
+train_325,haze primary
+train_326,agriculture clear primary
+train_327,clear primary
+train_328,agriculture partly_cloudy primary road
+train_329,clear primary road water
+train_330,agriculture clear primary water
+train_331,partly_cloudy primary
+train_332,haze primary
+train_333,agriculture clear primary road
+train_334,partly_cloudy primary road water
+train_335,clear primary
+train_336,clear primary
+train_337,cloudy
+train_338,agriculture clear primary
+train_339,clear primary
+train_340,partly_cloudy road water
+train_341,haze primary
+train_342,agriculture partly_cloudy primary road
+train_343,cloudy
+train_344,clear primary
+train_345,agriculture clear primary
+train_346,clear primary
+train_347,partly_cloudy primary road water
+train_348,clear primary
+train_349,agriculture clear primary
+train_350,agriculture clear primary road
+train_351,agriculture haze primary road
+train_352,cloudy
+train_353,agriculture habitation partly_cloudy primary road
+train_354,clear primary
+train_355,clear primary
+train_356,clear primary
+train_357,clear primary
+train_358,agriculture clear cultivation primary
+train_359,agriculture partly_cloudy primary
+train_360,haze primary
+train_361,agriculture partly_cloudy primary road
+train_362,clear primary water
+train_363,haze primary water
+train_364,clear primary
+train_365,partly_cloudy primary
+train_366,clear primary water
+train_367,haze primary
+train_368,clear primary
+train_369,agriculture clear cultivation habitation primary
+train_370,agriculture clear habitation primary road
+train_371,clear primary
+train_372,clear primary
+train_373,clear primary
+train_374,agriculture clear primary
+train_375,clear primary
+train_376,clear primary
+train_377,partly_cloudy primary
+train_378,clear primary
+train_379,agriculture clear primary road
+train_380,clear primary
+train_381,agriculture clear cultivation habitation primary road
+train_382,clear primary
+train_383,clear primary
+train_384,partly_cloudy primary
+train_385,agriculture cultivation habitation partly_cloudy primary road
+train_386,clear primary road water
+train_387,clear primary
+train_388,agriculture haze primary
+train_389,agriculture clear primary road
+train_390,agriculture clear primary road
+train_391,agriculture clear primary road water
+train_392,agriculture clear primary
+train_393,agriculture clear primary road
+train_394,blooming clear primary
+train_395,partly_cloudy primary
+train_396,cloudy
+train_397,clear primary
+train_398,clear primary
+train_399,clear primary
+train_400,agriculture partly_cloudy primary water
+train_401,clear primary
+train_402,partly_cloudy primary selective_logging
+train_403,agriculture clear habitation primary
+train_404,clear primary
+train_405,agriculture clear primary road
+train_406,agriculture haze primary water
+train_407,clear primary
+train_408,blooming clear primary
+train_409,partly_cloudy primary
+train_410,clear primary
+train_411,agriculture clear primary road water
+train_412,clear water
+train_413,cloudy
+train_414,haze primary
+train_415,clear primary
+train_416,clear habitation primary road water
+train_417,haze primary
+train_418,bare_ground clear primary water
+train_419,agriculture clear habitation primary road
+train_420,bare_ground clear primary road
+train_421,agriculture clear primary water
+train_422,clear primary
+train_423,clear primary
+train_424,clear primary
+train_425,clear habitation road
+train_426,haze primary water
+train_427,clear primary
+train_428,clear primary
+train_429,clear primary
+train_430,agriculture blooming clear cultivation primary
+train_431,clear primary
+train_432,haze primary
+train_433,clear primary
+train_434,agriculture partly_cloudy primary
+train_435,bare_ground clear primary
+train_436,clear primary
+train_437,cloudy
+train_438,clear primary
+train_439,clear primary
+train_440,partly_cloudy primary
+train_441,agriculture partly_cloudy primary road water
+train_442,agriculture clear primary water
+train_443,clear primary
+train_444,clear primary road
+train_445,cultivation partly_cloudy primary water
+train_446,clear primary
+train_447,clear primary
+train_448,agriculture artisinal_mine clear primary road water
+train_449,clear primary
+train_450,clear primary water
+train_451,bare_ground clear primary
+train_452,partly_cloudy water
+train_453,cloudy
+train_454,haze primary water
+train_455,clear primary
+train_456,agriculture clear habitation primary road water
+train_457,clear primary
+train_458,haze primary
+train_459,clear primary
+train_460,haze primary
+train_461,agriculture habitation partly_cloudy primary
+train_462,clear primary
+train_463,clear primary road water
+train_464,agriculture clear primary
+train_465,clear cultivation primary
+train_466,clear primary
+train_467,agriculture clear cultivation primary
+train_468,clear primary
+train_469,clear primary
+train_470,clear primary
+train_471,agriculture bare_ground clear cultivation primary water
+train_472,clear primary water
+train_473,clear primary
+train_474,agriculture partly_cloudy primary water
+train_475,clear primary road
+train_476,cloudy
+train_477,agriculture clear cultivation habitation primary slash_burn
+train_478,clear primary
+train_479,clear primary
+train_480,clear primary
+train_481,partly_cloudy primary
+train_482,partly_cloudy primary
+train_483,clear primary
+train_484,clear primary
+train_485,clear primary
+train_486,bare_ground clear primary
+train_487,clear primary
+train_488,clear primary water
+train_489,clear primary water
+train_490,clear primary
+train_491,clear habitation primary road water
+train_492,partly_cloudy primary
+train_493,clear primary
+train_494,clear primary
+train_495,clear primary water
+train_496,clear primary
+train_497,clear primary
+train_498,agriculture clear habitation primary road water
+train_499,bare_ground clear primary
+train_500,partly_cloudy primary
+train_501,clear primary
+train_502,clear primary
+train_503,clear primary road water
+train_504,haze primary water
+train_505,partly_cloudy primary
+train_506,partly_cloudy primary
+train_507,agriculture partly_cloudy primary
+train_508,clear primary
+train_509,clear primary
+train_510,partly_cloudy primary
+train_511,clear primary water
+train_512,agriculture clear habitation primary road water
+train_513,clear cultivation habitation primary road
+train_514,clear primary
+train_515,clear primary
+train_516,agriculture clear primary road
+train_517,partly_cloudy primary water
+train_518,agriculture haze primary road water
+train_519,blooming clear primary
+train_520,agriculture cultivation partly_cloudy primary
+train_521,bare_ground blow_down clear primary slash_burn
+train_522,agriculture clear primary road
+train_523,agriculture habitation partly_cloudy primary road
+train_524,agriculture clear primary water
+train_525,agriculture clear primary road water
+train_526,partly_cloudy primary
+train_527,agriculture partly_cloudy primary
+train_528,clear primary
+train_529,blooming clear primary
+train_530,clear primary
+train_531,clear primary
+train_532,agriculture cultivation partly_cloudy primary road
+train_533,clear habitation road
+train_534,cloudy
+train_535,blow_down clear primary
+train_536,clear primary
+train_537,blooming clear primary
+train_538,clear primary
+train_539,agriculture habitation partly_cloudy primary road
+train_540,agriculture habitation partly_cloudy primary road
+train_541,agriculture cultivation partly_cloudy primary water
+train_542,partly_cloudy primary
+train_543,clear primary
+train_544,clear primary selective_logging
+train_545,clear primary
+train_546,agriculture clear primary road
+train_547,clear primary
+train_548,clear primary
+train_549,clear primary water
+train_550,partly_cloudy primary
+train_551,partly_cloudy primary
+train_552,agriculture clear primary
+train_553,agriculture partly_cloudy primary road
+train_554,haze primary
+train_555,clear primary
+train_556,clear primary water
+train_557,agriculture clear primary road
+train_558,clear primary
+train_559,agriculture clear cultivation habitation primary
+train_560,clear primary
+train_561,clear primary
+train_562,agriculture haze primary
+train_563,partly_cloudy primary
+train_564,clear primary
+train_565,agriculture clear primary road water
+train_566,blooming clear primary
+train_567,agriculture clear cultivation primary
+train_568,agriculture clear primary water
+train_569,cloudy
+train_570,bare_ground clear road
+train_571,partly_cloudy primary
+train_572,agriculture clear primary road water
+train_573,clear primary
+train_574,agriculture clear cultivation primary road water
+train_575,clear primary road
+train_576,partly_cloudy primary
+train_577,agriculture clear primary
+train_578,clear primary
+train_579,partly_cloudy primary
+train_580,clear primary
+train_581,haze primary water
+train_582,cloudy
+train_583,clear primary
+train_584,agriculture clear habitation primary road
+train_585,agriculture clear habitation primary road
+train_586,clear primary
+train_587,clear primary
+train_588,clear cultivation primary
+train_589,agriculture partly_cloudy primary
+train_590,agriculture clear primary
+train_591,clear primary
+train_592,clear primary
+train_593,clear primary
+train_594,clear primary
+train_595,clear primary water
+train_596,partly_cloudy primary
+train_597,agriculture blooming clear primary road water
+train_598,partly_cloudy primary water
+train_599,agriculture clear primary
+train_600,clear primary
+train_601,cloudy
+train_602,clear primary
+train_603,clear primary
+train_604,agriculture clear primary road
+train_605,clear primary water
+train_606,clear primary
+train_607,agriculture clear primary road
+train_608,agriculture partly_cloudy primary
+train_609,bare_ground clear primary
+train_610,agriculture clear primary road
+train_611,clear primary
+train_612,clear primary
+train_613,agriculture clear cultivation habitation primary road
+train_614,partly_cloudy primary water
+train_615,clear primary
+train_616,clear primary
+train_617,clear primary
+train_618,clear cultivation primary water
+train_619,agriculture clear primary water
+train_620,partly_cloudy primary
+train_621,clear primary
+train_622,clear primary
+train_623,agriculture clear primary water
+train_624,clear primary
+train_625,haze primary
+train_626,clear primary
+train_627,clear primary
+train_628,clear primary
+train_629,clear primary
+train_630,clear primary
+train_631,agriculture clear primary road
+train_632,agriculture clear primary road water
+train_633,agriculture clear habitation primary road
+train_634,agriculture clear primary
+train_635,clear primary
+train_636,clear primary
+train_637,clear primary
+train_638,clear primary
+train_639,clear primary
+train_640,clear primary
+train_641,clear primary
+train_642,clear primary water
+train_643,clear primary
+train_644,clear primary
+train_645,clear primary water
+train_646,cloudy
+train_647,partly_cloudy primary
+train_648,partly_cloudy primary
+train_649,agriculture clear cultivation primary
+train_650,cloudy
+train_651,agriculture clear habitation primary road water
+train_652,clear primary water
+train_653,agriculture clear cultivation primary road
+train_654,haze primary
+train_655,clear primary
+train_656,agriculture clear habitation primary road
+train_657,agriculture clear primary road
+train_658,clear primary
+train_659,blooming partly_cloudy primary
+train_660,clear primary
+train_661,agriculture haze primary
+train_662,clear primary
+train_663,clear primary
+train_664,clear primary
+train_665,agriculture clear cultivation primary road water
+train_666,agriculture clear cultivation primary
+train_667,clear primary
+train_668,clear primary
+train_669,agriculture clear cultivation habitation primary road
+train_670,agriculture clear cultivation primary road water
+train_671,clear primary
+train_672,agriculture partly_cloudy primary
+train_673,clear primary
+train_674,partly_cloudy primary
+train_675,agriculture partly_cloudy primary
+train_676,clear primary
+train_677,agriculture clear habitation primary road
+train_678,agriculture partly_cloudy primary road
+train_679,clear primary
+train_680,agriculture clear cultivation habitation primary road water
+train_681,clear primary
+train_682,clear primary
+train_683,agriculture clear primary road
+train_684,partly_cloudy primary
+train_685,clear primary
+train_686,clear primary
+train_687,clear primary
+train_688,agriculture haze primary road
+train_689,clear primary water
+train_690,agriculture haze primary road
+train_691,clear primary
+train_692,partly_cloudy primary
+train_693,agriculture clear water
+train_694,clear primary
+train_695,clear habitation primary road
+train_696,agriculture clear cultivation primary road selective_logging
+train_697,clear primary
+train_698,bare_ground clear primary
+train_699,agriculture clear habitation primary water
+train_700,clear primary water
+train_701,agriculture clear habitation primary water
+train_702,agriculture clear primary road
+train_703,blow_down clear primary
+train_704,haze primary
+train_705,clear primary
+train_706,partly_cloudy primary
+train_707,partly_cloudy primary
+train_708,clear primary water
+train_709,clear primary
+train_710,clear primary
+train_711,cultivation partly_cloudy primary
+train_712,blooming clear primary
+train_713,clear primary
+train_714,clear primary
+train_715,agriculture partly_cloudy primary road water
+train_716,agriculture partly_cloudy primary
+train_717,cloudy
+train_718,bare_ground clear primary water
+train_719,clear primary
+train_720,agriculture clear cultivation habitation primary
+train_721,agriculture partly_cloudy primary road
+train_722,agriculture clear primary road water
+train_723,clear primary
+train_724,clear primary
+train_725,agriculture habitation partly_cloudy primary
+train_726,agriculture partly_cloudy primary water
+train_727,clear primary
+train_728,agriculture clear cultivation habitation primary road slash_burn
+train_729,clear primary
+train_730,clear primary water
+train_731,clear primary
+train_732,clear primary
+train_733,agriculture clear primary road
+train_734,clear primary
+train_735,clear primary water
+train_736,agriculture clear cultivation habitation primary road
+train_737,clear primary
+train_738,agriculture clear cultivation primary
+train_739,agriculture clear habitation primary
+train_740,haze primary water
+train_741,clear primary
+train_742,clear primary water
+train_743,cloudy
+train_744,agriculture clear habitation primary road
+train_745,partly_cloudy primary
+train_746,clear primary road selective_logging
+train_747,clear primary
+train_748,clear primary
+train_749,agriculture clear primary road
+train_750,agriculture clear primary water
+train_751,agriculture clear primary road
+train_752,partly_cloudy primary
+train_753,agriculture partly_cloudy primary
+train_754,clear primary
+train_755,clear primary water
+train_756,agriculture cultivation habitation partly_cloudy primary road
+train_757,partly_cloudy primary
+train_758,cloudy
+train_759,partly_cloudy primary
+train_760,clear primary
+train_761,clear primary
+train_762,agriculture clear habitation primary road
+train_763,agriculture clear primary water
+train_764,clear primary road
+train_765,habitation partly_cloudy road
+train_766,agriculture partly_cloudy primary road
+train_767,agriculture clear primary road
+train_768,clear primary
+train_769,agriculture habitation partly_cloudy primary
+train_770,agriculture clear cultivation habitation primary road
+train_771,clear primary water
+train_772,clear primary
+train_773,clear primary
+train_774,partly_cloudy primary
+train_775,haze primary
+train_776,clear primary
+train_777,clear primary
+train_778,clear primary water
+train_779,clear primary
+train_780,agriculture clear cultivation primary
+train_781,partly_cloudy primary water
+train_782,cloudy
+train_783,clear primary water
+train_784,clear primary
+train_785,agriculture cultivation partly_cloudy primary
+train_786,agriculture clear cultivation primary
+train_787,clear primary water
+train_788,clear primary
+train_789,clear primary
+train_790,cloudy
+train_791,clear primary
+train_792,clear primary
+train_793,agriculture clear primary road
+train_794,habitation partly_cloudy primary road
+train_795,bare_ground clear primary road
+train_796,partly_cloudy primary
+train_797,partly_cloudy primary
+train_798,partly_cloudy primary
+train_799,cloudy
+train_800,agriculture haze primary
+train_801,clear primary
+train_802,agriculture clear cultivation habitation primary
+train_803,clear primary
+train_804,agriculture partly_cloudy primary road
+train_805,clear primary
+train_806,clear primary water
+train_807,haze primary
+train_808,clear primary
+train_809,agriculture clear cultivation habitation primary road
+train_810,clear primary
+train_811,agriculture clear habitation primary
+train_812,clear primary
+train_813,agriculture clear primary
+train_814,agriculture clear habitation primary road
+train_815,partly_cloudy primary water
+train_816,agriculture clear cultivation primary
+train_817,cloudy
+train_818,clear primary
+train_819,partly_cloudy primary water
+train_820,agriculture clear habitation primary road water
+train_821,clear primary
+train_822,clear primary
+train_823,cloudy
+train_824,clear primary
+train_825,bare_ground clear cultivation habitation primary water
+train_826,agriculture partly_cloudy primary road
+train_827,cloudy
+train_828,clear primary
+train_829,agriculture clear primary road
+train_830,agriculture clear primary
+train_831,agriculture clear primary
+train_832,clear primary
+train_833,clear primary
+train_834,partly_cloudy primary
+train_835,clear primary
+train_836,clear primary
+train_837,clear primary
+train_838,clear primary water
+train_839,clear primary
+train_840,partly_cloudy primary
+train_841,agriculture clear primary
+train_842,partly_cloudy primary
+train_843,agriculture clear primary road
+train_844,partly_cloudy primary
+train_845,clear primary
+train_846,partly_cloudy primary
+train_847,clear primary
+train_848,clear primary
+train_849,habitation haze primary road
+train_850,clear primary
+train_851,agriculture clear cultivation primary road
+train_852,clear primary
+train_853,clear primary water
+train_854,clear primary
+train_855,clear primary
+train_856,agriculture partly_cloudy primary
+train_857,agriculture clear primary
+train_858,agriculture clear primary road
+train_859,agriculture clear primary road
+train_860,cloudy
+train_861,clear primary road water
+train_862,clear primary water
+train_863,clear primary
+train_864,clear primary blooming
+train_865,clear cultivation habitation primary water
+train_866,agriculture clear habitation primary road
+train_867,agriculture clear habitation primary road
+train_868,clear primary
+train_869,clear primary
+train_870,partly_cloudy primary water
+train_871,clear primary road selective_logging
+train_872,agriculture clear primary road water
+train_873,partly_cloudy primary
+train_874,partly_cloudy primary road water
+train_875,agriculture clear primary road
+train_876,agriculture clear cultivation primary
+train_877,clear primary
+train_878,clear primary
+train_879,agriculture haze primary
+train_880,clear primary
+train_881,partly_cloudy primary
+train_882,agriculture partly_cloudy primary
+train_883,agriculture clear primary
+train_884,partly_cloudy primary
+train_885,cultivation haze primary
+train_886,clear primary
+train_887,partly_cloudy primary
+train_888,cloudy
+train_889,clear primary
+train_890,agriculture clear primary
+train_891,clear primary
+train_892,clear primary blooming
+train_893,cloudy
+train_894,agriculture clear cultivation primary
+train_895,agriculture clear primary road
+train_896,agriculture clear habitation primary
+train_897,blooming partly_cloudy primary
+train_898,clear cultivation primary water
+train_899,clear primary
+train_900,partly_cloudy primary water
+train_901,agriculture clear primary
+train_902,cloudy
+train_903,clear primary
+train_904,partly_cloudy primary
+train_905,clear primary
+train_906,clear primary
+train_907,clear cultivation primary
+train_908,clear primary
+train_909,agriculture clear primary
+train_910,clear primary road
+train_911,clear primary
+train_912,partly_cloudy primary
+train_913,clear cultivation habitation primary
+train_914,clear cultivation primary
+train_915,clear primary water
+train_916,agriculture clear primary water
+train_917,clear primary
+train_918,clear primary
+train_919,clear primary water
+train_920,haze primary
+train_921,agriculture clear primary
+train_922,clear primary
+train_923,partly_cloudy primary water
+train_924,blow_down clear primary
+train_925,agriculture clear cultivation primary
+train_926,clear primary
+train_927,clear primary
+train_928,partly_cloudy primary water
+train_929,clear primary
+train_930,clear primary
+train_931,agriculture clear primary
+train_932,agriculture clear primary road
+train_933,clear primary water
+train_934,clear primary water
+train_935,partly_cloudy primary
+train_936,clear primary
+train_937,clear primary
+train_938,cloudy
+train_939,clear primary
+train_940,agriculture clear primary road
+train_941,clear primary water
+train_942,partly_cloudy primary
+train_943,clear primary water
+train_944,clear primary road
+train_945,clear primary
+train_946,clear primary
+train_947,clear cultivation primary
+train_948,agriculture clear cultivation primary
+train_949,agriculture clear cultivation habitation primary road
+train_950,clear primary road water
+train_951,cultivation partly_cloudy primary water
+train_952,partly_cloudy primary water
+train_953,agriculture habitation partly_cloudy primary road water
+train_954,partly_cloudy primary
+train_955,clear primary
+train_956,clear primary water
+train_957,clear habitation primary road
+train_958,agriculture partly_cloudy primary water
+train_959,agriculture clear primary
+train_960,agriculture clear primary water
+train_961,partly_cloudy primary
+train_962,clear primary
+train_963,haze primary
+train_964,clear primary
+train_965,haze primary
+train_966,agriculture clear primary road
+train_967,clear primary
+train_968,haze primary
+train_969,partly_cloudy primary
+train_970,cloudy
+train_971,clear primary
+train_972,partly_cloudy primary water
+train_973,agriculture clear primary
+train_974,bare_ground clear primary road water
+train_975,partly_cloudy primary
+train_976,clear primary
+train_977,agriculture clear habitation primary road water
+train_978,clear primary
+train_979,clear primary water
+train_980,clear primary
+train_981,clear primary
+train_982,agriculture clear habitation primary road
+train_983,clear primary
+train_984,cloudy
+train_985,clear primary
+train_986,agriculture clear cultivation primary
+train_987,agriculture haze primary
+train_988,agriculture partly_cloudy primary road
+train_989,haze primary water
+train_990,clear primary
+train_991,agriculture clear primary road
+train_992,agriculture clear cultivation primary
+train_993,clear habitation primary water
+train_994,artisinal_mine partly_cloudy primary water
+train_995,clear primary
+train_996,partly_cloudy primary road
+train_997,artisinal_mine clear primary road selective_logging water
+train_998,agriculture cultivation partly_cloudy primary road
+train_999,clear primary
+train_1000,partly_cloudy primary
